@@ -696,16 +696,15 @@ So yes, it’s **completely normal and expected** that only the **columns decrea
 
 ## Results
 - Rows before:
-Shapes: <img width="211" height="40" alt="image" src="https://github.com/user-attachments/assets/f644bd63-7586-4d7a-b87e-a710152af662" />
-Samples rows: <img width="649" height="450" alt="image" src="https://github.com/user-attachments/assets/e09b0425-263c-4816-ac8e-e648867aca84" />
-Summary statistics pt.1: <img width="628" height="669" alt="image" src="https://github.com/user-attachments/assets/9c7d678b-a432-4142-887b-83a04e309b41" />
-Summary statistics pt.2: <img width="570" height="156" alt="image" src="https://github.com/user-attachments/assets/a71ad739-92f2-499e-949a-7bea320cd38e" />
+<img width="211" height="40" alt="image" src="https://github.com/user-attachments/assets/f644bd63-7586-4d7a-b87e-a710152af662" />
+<img width="649" height="450" alt="image" src="https://github.com/user-attachments/assets/e09b0425-263c-4816-ac8e-e648867aca84" />
+<img width="628" height="669" alt="image" src="https://github.com/user-attachments/assets/9c7d678b-a432-4142-887b-83a04e309b41" />
+<img width="570" height="156" alt="image" src="https://github.com/user-attachments/assets/a71ad739-92f2-499e-949a-7bea320cd38e" />
 
 - Rows after:
-Shapes: <img width="192" height="29" alt="image" src="https://github.com/user-attachments/assets/7ef1d3db-7d6a-4361-af98-fdd39e30a390" />
-Sample rows pt.1: <img width="676" height="613" alt="image" src="https://github.com/user-attachments/assets/51ab56d9-0761-46c1-9b9f-2f3a9fc9cc5a" />
-Sample rows pt.2: <img width="637" height="667" alt="image" src="https://github.com/user-attachments/assets/b4ff3135-0906-4b36-becf-2254236b42fd" />
-Sample rows pt.3: <img width="604" height="407" alt="image" src="https://github.com/user-attachments/assets/1de105f1-a3db-4f3d-8743-ae38ca5c48c6" />
-
+<img width="192" height="29" alt="image" src="https://github.com/user-attachments/assets/7ef1d3db-7d6a-4361-af98-fdd39e30a390" />
+<img width="676" height="613" alt="image" src="https://github.com/user-attachments/assets/51ab56d9-0761-46c1-9b9f-2f3a9fc9cc5a" />
+<img width="637" height="667" alt="image" src="https://github.com/user-attachments/assets/b4ff3135-0906-4b36-becf-2254236b42fd" />
+<img width="604" height="407" alt="image" src="https://github.com/user-attachments/assets/1de105f1-a3db-4f3d-8743-ae38ca5c48c6" />
 
 Video: link
