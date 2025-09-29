@@ -707,4 +707,5 @@ So yes, it’s **completely normal and expected** that only the **columns decrea
 <img width="637" height="667" alt="image" src="https://github.com/user-attachments/assets/b4ff3135-0906-4b36-becf-2254236b42fd" />
 <img width="604" height="407" alt="image" src="https://github.com/user-attachments/assets/1de105f1-a3db-4f3d-8743-ae38ca5c48c6" />
 
-Video: link
+
+Video: https://drive.google.com/drive/folders/19xJilNJHzVnu4vw9Mb24vnmi90GKoqas?usp=sharing
