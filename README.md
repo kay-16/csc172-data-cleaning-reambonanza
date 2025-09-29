@@ -6,8 +6,8 @@
 - Date: 2025-09-29
 
 ## Dataset
-- Source: [Kaggle/UCI link]
-- Name: dataset name
+- Source: Kaggle
+- Name: House Prices - Advanced Regression Techniques
 
 ## Issues found
 - Missing values: Several columns such as PoolQC, MiscFeature, Alley, and Fence contain multiple missing values
